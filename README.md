@@ -1,5 +1,7 @@
 # CartPole Q-Learning:
 
+![CartPole Environment](D:\GUC\GUC 10th semester\Reinforcement Learning and Optimal Control\ cartpole.png)
+
 ## CartPole Q-Learning Implementation :
 This project implements a Q-learning algorithm to solve the CartPole-v1 environment using OpenAI's Gym.
 
